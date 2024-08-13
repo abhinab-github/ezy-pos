@@ -1,9 +1,9 @@
-Flask==3.0.3
-Flask-SQLAlchemy==3.0.3
-Flask-Migrate==4.0.5
-Flask-JWT-Extended==4.4.4
-Flask-CORS==4.0.0
-PyMySQL==1.1.0          # Alternative MySQL connector, remove if not needed
-PyJWT==2.8.0
-reportlab==4.0.4        # For generating PDFs
-gunicorn==21.2.0        # For deployment, remove if not needed
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-CORS
+PyMySQL       # Alternative MySQL connector, remove if not needed
+PyJWT
+reportlab       # For generating PDFs
+gunicorn       # For deployment, remove if not needed
